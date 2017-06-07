@@ -1,0 +1,14 @@
+C:\Users\Christina\Desktop\CS235AM Android\Lab7\Lab7Sqlite\DAL\bin\Debug\DAL.dll
+C:\Users\Christina\Desktop\CS235AM Android\Lab7\Lab7Sqlite\DAL\bin\Debug\DAL.pdb
+C:\Users\Christina\Desktop\CS235AM Android\Lab7\Lab7Sqlite\DAL\bin\Debug\Lab7Sqlite.dll
+C:\Users\Christina\Desktop\CS235AM Android\Lab7\Lab7Sqlite\DAL\bin\Debug\Lab7Sqlite.pdb
+C:\Users\Christina\Desktop\CS235AM Android\Lab7\Lab7Sqlite\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Christina\Desktop\CS235AM Android\Lab7\Lab7Sqlite\DAL\obj\Debug\DAL.dll
+C:\Users\Christina\Desktop\CS235AM Android\Lab7\Lab7Sqlite\DAL\obj\Debug\DAL.pdb
+C:\Users\Christina\Desktop\CS235AM Android\Lab 8\Lab7Sqlite\DAL\bin\Debug\DAL.dll
+C:\Users\Christina\Desktop\CS235AM Android\Lab 8\Lab7Sqlite\DAL\bin\Debug\DAL.pdb
+C:\Users\Christina\Desktop\CS235AM Android\Lab 8\Lab7Sqlite\DAL\bin\Debug\Lab7Sqlite.dll
+C:\Users\Christina\Desktop\CS235AM Android\Lab 8\Lab7Sqlite\DAL\bin\Debug\Lab7Sqlite.pdb
+C:\Users\Christina\Desktop\CS235AM Android\Lab 8\Lab7Sqlite\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Christina\Desktop\CS235AM Android\Lab 8\Lab7Sqlite\DAL\obj\Debug\DAL.dll
+C:\Users\Christina\Desktop\CS235AM Android\Lab 8\Lab7Sqlite\DAL\obj\Debug\DAL.pdb
